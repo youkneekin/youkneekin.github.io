@@ -23,3 +23,13 @@ ul {
   margin: 0 auto;
   text-align: left;
 }
+
+/* unvisited link */
+a:link {
+color: white;
+}
+
+/* visited link */
+a:visited {
+color: gray;
+}
